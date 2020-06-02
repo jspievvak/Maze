@@ -1,0 +1,420 @@
+﻿Log file open, 05/26/20 16:12:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: JuliaŚpiewak
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.232689
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.103s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.05.26-14.12.35:363][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-14.12.35:363][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.26-14.12.35:372][  0]LogHAL: Display: Platform has ~ 16 GB [17109979136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.26-14.12.35:372][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.05.26-14.12.35:372][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.26-14.12.35:372][  0]LogInit: Computer: DESKTOP-8FBQDIA
+[2020.05.26-14.12.35:372][  0]LogInit: User: Jule
+[2020.05.26-14.12.35:372][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.26-14.12.35:372][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.26-14.12.35:373][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.26-14.12.35:373][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.26-14.12.35:373][  0]LogMemory: Process Physical Memory: 100.82 MB used, 100.82 MB peak
+[2020.05.26-14.12.35:373][  0]LogMemory: Process Virtual Memory: 84.79 MB used, 84.79 MB peak
+[2020.05.26-14.12.35:373][  0]LogMemory: Physical Memory: 12693.28 MB used,  3624.07 MB free, 16317.35 MB total
+[2020.05.26-14.12.35:373][  0]LogMemory: Virtual Memory: 4632.66 MB used,  3624.07 MB free, 134217728.00 MB total
+[2020.05.26-14.12.35:386][  0]LogInit: Using OS detected language (pl-PL).
+[2020.05.26-14.12.35:386][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.05.26-14.12.35:387][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.05.26-14.12.35:388][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2020.05.26-14.12.35:388][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.26-14.12.35:418][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.26-14.12.35:418][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.26-14.12.35:570][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.26-14.12.35:570][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.26-14.12.35:626][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.26-14.12.35:626][  0]LogD3D11RHI:       6052/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.26-14.12.35:628][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.26-14.12.35:628][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.26-14.12.35:628][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.26-14.12.35:638][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.26-14.12.35:638][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.26-14.12.35:638][  0]LogWindows: EnumDisplayDevices:
+[2020.05.26-14.12.35:638][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.26-14.12.35:639][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-14.12.35:639][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-14.12.35:639][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.26-14.12.35:639][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.26-14.12.35:639][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.26-14.12.35:639][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.05.26-14.12.35:639][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.05.26-14.12.35:639][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.26-14.12.35:675][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.26-14.12.35:691][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.26-14.12.35:693][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/admin/Documents/Unreal Projects/Projekt/Intermediate/Shaders/WorkingDirectory/17496/).
+[2020.05.26-14.12.35:693][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/B095F0B347B74B7A42B5C1A399D4FFBB/'.
+[2020.05.26-14.12.35:932][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.26-14.12.35:943][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.26-14.12.35:954][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.26-14.12.35:965][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.26-14.12.35:976][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.26-14.12.35:988][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.26-14.12.35:999][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.26-14.12.36:010][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.26-14.12.36:015][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:086][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.26-14.12.36:087][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.26-14.12.36:143][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.26-14.12.36:143][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.26-14.12.36:161][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.26-14.12.36:161][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.26-14.12.36:172][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.26-14.12.36:182][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.26-14.12.36:192][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.26-14.12.36:203][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.26-14.12.36:210][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.26-14.12.36:210][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.26-14.12.36:247][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.26-14.12.36:247][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.26-14.12.36:247][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.26-14.12.36:902][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/admin/Documents/Unreal Projects/Projekt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/admin/Documents/Unreal Projects/Projekt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.26-14.12.36:948][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.26-14.12.36:961][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.26-14.12.36:973][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.26-14.12.36:973][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.26-14.12.36:973][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.26-14.12.36:988][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.26-14.12.36:989][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.26-14.12.36:989][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.26-14.12.37:054][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2020.05.26-14.12.37:312][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-14.12.37:420][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.26-14.12.37:422][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.26-14.12.37:422][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.26-14.12.37:422][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.26-14.12.37:422][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.26-14.12.37:434][  0]LogNetVersion: JuliaŚpiewak 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3775725956)
+[2020.05.26-14.12.37:890][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.073599 seconds
+[2020.05.26-14.12.37:895][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.05.26-14.12.37:895][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2020.05.26-14.12.37:895][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.26-14.12.38:561][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.26-14.12.38:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.26-14.12.38:705][  0]SourceControl: Source control is disabled
+[2020.05.26-14.12.38:705][  0]SourceControl: Source control is disabled
+[2020.05.26-14.12.38:705][  0]SourceControl: Source control is disabled
+[2020.05.26-14.12.38:706][  0]SourceControl: Source control is disabled
+[2020.05.26-14.12.38:847][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.26-14.12.39:083][  0]LogOcInput: OculusInput pre-init called
+[2020.05.26-14.12.39:133][  0]LogEngine: Initializing Engine...
+[2020.05.26-14.12.39:133][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.26-14.12.39:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.26-14.12.39:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.26-14.12.39:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.26-14.12.39:134][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.26-14.12.39:308][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.26-14.12.39:316][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.26-14.12.39:453][  0]LogInit: XAudio2 using 'Krekek (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.26-14.12.39:512][  0]LogInit: FAudioDevice initialized.
+[2020.05.26-14.12.39:512][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.26-14.12.39:647][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.05.26-14.12.39:653][  0]LogInit: Texture streaming: Enabled
+[2020.05.26-14.12.39:670][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.26-14.12.39:725][  0]LogInit: Transaction tracking system initialized
+[2020.05.26-14.12.39:738][  0]BlueprintLog: New page: Editor Load
+[2020.05.26-14.12.39:795][  0]LocalizationService: Localization service is disabled
+[2020.05.26-14.12.40:082][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.26-14.12.40:082][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.26-14.12.40:089][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Projekt/Content/' took 0.03s
+[2020.05.26-14.12.40:089][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.26-14.12.40:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.26-14.12.40:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.26-14.12.40:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.26-14.12.40:089][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.26-14.12.40:169][  0]SourceControl: Source control is disabled
+[2020.05.26-14.12.40:169][  0]Cmd: MAP LOAD FILE="C:/Users/admin/Documents/Unreal Projects/Projekt/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.26-14.12.40:172][  0]LightingResults: New page: Lighting Build
+[2020.05.26-14.12.40:173][  0]MapCheck: New page: Map Check
+[2020.05.26-14.12.40:173][  0]LightingResults: New page: Lighting Build
+[2020.05.26-14.12.41:797][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.26-14.12.42:075][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.26-14.12.42:181][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.26-14.12.42:238][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57,968ms to complete.
+[2020.05.26-14.12.42:239][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.070
+[2020.05.26-14.12.43:858][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.12.43:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.12.43:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.12.43:958][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.12.44:228][  0]LogCollectionManager: Loaded 0 collections in 0.001037 seconds
+[2020.05.26-14.12.44:669][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Projekt/Saved/Collections/' took 0.01s
+[2020.05.26-14.12.44:669][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Developers/Jule/Collections/' took 0.01s
+[2020.05.26-14.12.44:669][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Collections/' took 0.01s
+[2020.05.26-14.12.44:669][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.26-14.12.44:738][  0]LogContentBrowser: Native class hierarchy populated in 0.0313 seconds. Added 2572 classes and 603 folders.
+[2020.05.26-14.12.45:027][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-14.12.47:638][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.26-14.12.47:684][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.26-14.12.48:676][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.26-14.12.48:676][  0]LogLoad: (Engine Initialization) Total time: 14.55 seconds
+[2020.05.26-14.12.48:676][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.26-14.12.48:773][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.26-14.12.48:806][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.26-14.12.48:807][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.26-14.12.48:829][  0]LogSlate: Took 0.009276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.26-14.12.49:373][  1]LogRenderer: Reallocating scene render targets to support 736x360 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-14.12.49:671][  2]LogAssetRegistry: Asset discovery search completed in 12.6387 seconds
+[2020.05.26-14.12.49:673][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.26-14.12.49:673][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.05.26-14.12.57:462][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.12.59:657][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.12.59:701][157]LogSlate: Took 0.015169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-14.13.00:696][257]Cmd: MAP LOAD FILE="C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Zadanie09JuliaŚpiewak.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.26-14.13.00:718][257]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-14.13.00:727][257]LightingResults: New page: Lighting Build
+[2020.05.26-14.13.00:728][257]LoadErrors: New page: Loading map: Zadanie09JuliaŚpiewak.umap
+[2020.05.26-14.13.00:749][257]MapCheck: New page: Map Check
+[2020.05.26-14.13.00:749][257]LightingResults: New page: Lighting Build
+[2020.05.26-14.13.01:492][257]LogAIModule: Creating AISystem for world Zadanie09JuliaŚpiewak
+[2020.05.26-14.13.01:652][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.26-14.13.01:695][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.26-14.13.01:760][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65,206ms to complete.
+[2020.05.26-14.13.01:760][257]LogFileHelpers: Loading map 'Zadanie09JuliaŚpiewak' took 1.065
+[2020.05.26-14.13.01:776][257]LogSlate: Window 'Open Level' being destroyed
+[2020.05.26-14.18.38:617][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.26-14.18.39:297][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.05.26-14.18.42:603][ 24]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Maze_01)
+[2020.05.26-14.18.42:824][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.18.43:000][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.05.26-14.19.11:261][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.11:496][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.12:076][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.14:388][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.14:402][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.14:434][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-14.19.16:637][ 23]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak
+[2020.05.26-14.19.17:709][ 23]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2020.05.26-14.19.19:089][ 23]LogSlate: Took 0.031313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.26-14.19.19:336][ 25]LogSlate: Took 0.011895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.26-14.21.19:628][806]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-14.21.19:668][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.21.19:681][806]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.26-14.21.19:685][806]LogPlayLevel: [PlayLevel] Compiling Zadanie09JuliaŚpiewak before play...
+[2020.05.26-14.21.20:121][806]LogPlayLevel: PlayLevel: Blueprint regeneration took 439 ms (1 blueprints)
+[2020.05.26-14.21.20:193][806]PIE: New page: PIE session: Zadanie09JuliaŚpiewak (26 maj 2020, 18:21:20)
+[2020.05.26-14.21.20:193][806]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Zadanie09JuliaŚpiewak
+[2020.05.26-14.21.20:255][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062153s)
+[2020.05.26-14.21.20:256][806]LogAIModule: Creating AISystem for world Zadanie09JuliaŚpiewak
+[2020.05.26-14.21.20:256][806]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2020.05.26-14.21.20:256][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak to /Game/UEDPIE_0_Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak (0.063265s)
+[2020.05.26-14.21.20:450][806]LogInit: XAudio2 using 'Krekek (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.26-14.21.20:497][806]LogInit: FAudioDevice initialized.
+[2020.05.26-14.21.20:547][806]LogLoad: Game class is 'GameModeBase'
+[2020.05.26-14.21.20:631][806]LogWorld: Bringing World /Game/UEDPIE_0_Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak up for play (max tick rate 0) at 2020.05.26-16.21.20
+[2020.05.26-14.21.20:705][806]LogWorld: Bringing up level for play took: 0.074739
+[2020.05.26-14.21.20:813][806]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2020.05.26-14.21.20:882][806]LogBlueprintUserMessages: [Zadanie09JuliaŚpiewak_C_0] Witaj w moim labiryncie! Sprawdźmy, jak szybko z niego uciekniesz!
+[2020.05.26-14.21.20:890][806]PIE: Play in editor start time for /Game/UEDPIE_0_Zadanie09JuliaŚpiewak 1,121
+[2020.05.26-14.21.20:890][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.21.27:525][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.21.27:553][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.21.27:625][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-14.21.27:625][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.21.27:652][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.21.27:711][561]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.26-14.21.27:884][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maze_01)
+[2020.05.26-14.21.29:718][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.26-14.21.39:508][396]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.26-14.21.41:133][580]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-14.21.41:141][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.21.41:142][580]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.26-14.21.41:146][580]LogPlayLevel: [PlayLevel] Compiling Zadanie09JuliaŚpiewak before play...
+[2020.05.26-14.21.41:280][580]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2020.05.26-14.21.41:280][580]PIE: New page: PIE session: Zadanie09JuliaŚpiewak (26 maj 2020, 18:21:41)
+[2020.05.26-14.21.41:280][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Zadanie09JuliaŚpiewak
+[2020.05.26-14.21.41:301][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020636s)
+[2020.05.26-14.21.41:301][580]LogAIModule: Creating AISystem for world Zadanie09JuliaŚpiewak
+[2020.05.26-14.21.41:301][580]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2020.05.26-14.21.41:301][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak to /Game/UEDPIE_0_Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak (0.021362s)
+[2020.05.26-14.21.41:445][580]LogInit: XAudio2 using 'Krekek (Razer Kraken 7.1 V2)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.26-14.21.41:494][580]LogInit: FAudioDevice initialized.
+[2020.05.26-14.21.41:526][580]LogLoad: Game class is 'GameModeBase'
+[2020.05.26-14.21.41:528][580]LogWorld: Bringing World /Game/UEDPIE_0_Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak up for play (max tick rate 0) at 2020.05.26-16.21.41
+[2020.05.26-14.21.41:528][580]LogWorld: Bringing up level for play took: 0.000873
+[2020.05.26-14.21.41:541][580]LogBlueprintUserMessages: [Zadanie09JuliaŚpiewak_C_1] Witaj w moim labiryncie! Sprawdźmy, jak szybko z niego uciekniesz!
+[2020.05.26-14.21.41:541][580]PIE: Play in editor start time for /Game/UEDPIE_0_Zadanie09JuliaŚpiewak -0,227
+[2020.05.26-14.21.41:541][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.22.11:366][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.22.11:366][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.22.11:400][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-14.22.11:400][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel' has LevelScriptBlueprint '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak' with GeneratedClass '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak_C' with ClassGeneratedBy '/Game/Zadanie09JuliaŚpiewak.Zadanie09JuliaŚpiewak:PersistentLevel.Zadanie09JuliaŚpiewak'
+[2020.05.26-14.22.11:426][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-14.22.11:485][148]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.26-14.22.55:382][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.26-14.23.26:453][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zadanie09JuliaŚpiewak" FILE="C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Zadanie09JuliaŚpiewak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.26-14.23.26:940][ 63]LogSavePackage: Moving 'C:/Users/admin/Documents/Unreal Projects/Projekt/Saved/Zadanie09JuliaŚpiewak9C2254B247DDAFF5B8186D979C68CA79.tmp' to 'C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Zadanie09JuliaŚpiewak.umap'
+[2020.05.26-14.23.27:003][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zadanie09JuliaŚpiewak_BuiltData" FILE="C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Zadanie09JuliaŚpiewak_BuiltData.uasset" SILENT=true
+[2020.05.26-14.23.27:048][ 63]LogSavePackage: Moving 'C:/Users/admin/Documents/Unreal Projects/Projekt/Saved/Zadanie09JuliaŚpiewak_BuiltDataFFF8BC05422301168D33DAA28A2F92E4.tmp' to 'C:/Users/admin/Documents/Unreal Projects/Projekt/Content/Zadanie09JuliaŚpiewak_BuiltData.uasset'
